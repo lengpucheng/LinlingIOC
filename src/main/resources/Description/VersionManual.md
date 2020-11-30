@@ -2,7 +2,7 @@
 # 20/11/30 1.05
 ## 使用
 ### 1. 启动
-1. 直接运行 `LinLingApplicationMain`
+1. 直接运行 `LinLingApplicationMain` 即可
 2. 使用入下代码启动，且给主类打上 `Module` 系列注解
 ```java
     public static void main(String[] args){
